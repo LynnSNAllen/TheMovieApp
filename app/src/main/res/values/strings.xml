@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">TheMovieApp</string>
+
+    <string name="lbl_search">Search</string>
+    <string name="lbl_discover">Discover</string>
+    <string name="movie_name">The Avengers:ENDGAME
+              Start streaming on April24 </string>
+    <string name="lbl_best_popular_films_and_serials">BEST POPULAR FILMS AND SERIALS</string>
+    <string name="lbl_check_movie_show_time">Check Movie\nShowtimes</string>
+    <string name="lbl_see_more"><u>SEE MORE</u></string>
+    <string name="lbl_showcases">SHOWCASES</string>
+    <string name="lbl_more_showcases"><u>MORE SHOWCASES</u></string>
+    <string name="lbl_showcase_date">Jan 11 ,2023</string>
+    <string name="lbl_future_dc_in_2023">Future DC in 2023</string>
+    <string name="lbl_best_actors">BEST ACTORS</string>
+    <string name="lbl_more_actors"><u>MORE ACTORS</u></string>
+    <string name="lbl_storyline">STORYLINE</string>
+    <string name="lbl_storyline_descriptions">After half of all life is snapped away by Thanos, the Avengers are left scattered and divided. Now with a way to reverse the damage, the Avengers and their allies must assemble once more and learn to put differences aside in order to work together and set things right. Along the way, the Avengers realize that sacrifices must be made as they prepare for the ultimate final showdown with Thanos, which will result in the heroes fighting the biggest battle they have ever faced.</string>
+    <string name="lbl_rate_movie">RATE MOVIE</string>
+    <string name="lbl_play_trailer">PLAY TRAILER</string>
+
+    <string name="lbl_actors"> ACTORS </string>
+    <string name="lbl_creators"> CREATORS </string>
+    <string name="lbl_more_creators"><u> MORE CREATORS </u></string>
+    <string name="lbl_original_title">ORIGINAL TITLE: </string>
+    <string name="lbl_name">Avengers:ENDGAME</string>
+    <string name="lbl_type">Type</string>
+    <string name="lbl_production">Production:</string>
+    <string name="lbl_premiere">Premiere:</string>
+    <string name="lbl_description">Description:</string>
+    <string name="lbl_details_description">The film was announced in October 2014 as Avengers: Infinity War – Part 2, but Marvel later removed this title. The Russo brothers joined as directors in April 2015, with Markus and McFeely signing on to write the script a month later. The film serves as a conclusion to the story of the MCU up to that point, ending the story arcs for several main characters. The plot revisits several moments from earlier films, bringing back actors and settings from throughout the franchise. Filming began in August 2017 at Pinewood Atlanta Studios in Fayette County, Georgia, shooting back-to-back with Infinity War, and ended in January 2018. Additional filming took place in the Metro and Downtown Atlanta areas, the state of New York, Scotland, and England. The official title was revealed in December 2018. With an estimated budget of $356–400 million, the film is one of the most expensive films ever made.</string>
+    <string name="lbl_about_film">About Film</string>
+    <string name="lbl_avengers_endgame">Avengers:ENDGAME</string>
+</resources>
